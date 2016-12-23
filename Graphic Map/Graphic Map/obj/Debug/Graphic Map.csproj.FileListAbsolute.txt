@@ -1,0 +1,8 @@
+C:\Users\maoreliy\Graphic Map\Graphic Map\bin\Debug\Graphic Map.exe
+C:\Users\maoreliy\Graphic Map\Graphic Map\bin\Debug\Graphic Map.pdb
+C:\Users\maoreliy\Graphic Map\Graphic Map\obj\Debug\Graphic Map.csprojResolveAssemblyReference.cache
+C:\Users\maoreliy\Graphic Map\Graphic Map\obj\Debug\Graphic_Map.Main_Form.resources
+C:\Users\maoreliy\Graphic Map\Graphic Map\obj\Debug\Graphic_Map.Properties.Resources.resources
+C:\Users\maoreliy\Graphic Map\Graphic Map\obj\Debug\Graphic Map.csproj.GenerateResource.Cache
+C:\Users\maoreliy\Graphic Map\Graphic Map\obj\Debug\Graphic Map.exe
+C:\Users\maoreliy\Graphic Map\Graphic Map\obj\Debug\Graphic Map.pdb
